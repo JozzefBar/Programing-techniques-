@@ -1,0 +1,3 @@
+/cygdrive/c/Users/jojob/Desktop/Programovacie Techniky/zadania/Zadanie5/cmake-build-debug/CMakeFiles/Zadanie5.dir
+/cygdrive/c/Users/jojob/Desktop/Programovacie Techniky/zadania/Zadanie5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/jojob/Desktop/Programovacie Techniky/zadania/Zadanie5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

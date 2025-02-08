@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -Wall -g -Wl,--enable-auto-import CMakeFiles/Zadanie2.dir/zadanie02.cpp.o -o Zadanie2.exe -Wl,--out-implib,libZadanie2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
