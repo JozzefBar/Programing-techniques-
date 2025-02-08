@@ -1,2 +1,2 @@
 # Programing-techniques-
-Assignments for Programing techniques - 3. semester STU FEI
+10 simple assignmets from Programing techniques
